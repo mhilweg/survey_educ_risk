@@ -17,7 +17,7 @@ SESSION_CONFIGS = [
          num_demo_participants=10,
 
          completionlinkfull=
-            'https://app.prolific.com/submissions/complete?cc=CCO7ZJUP',
+            'https://app.prolific.com/submissions/complete?cc=CZ5XVQY4',
 
 
          )
